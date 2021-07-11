@@ -3,9 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#input/output files
+
+*.txt
+
 # C extensions
 *.so
-*.txt
+
 # Distribution / packaging
 .Python
 build/
